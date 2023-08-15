@@ -1,6 +1,6 @@
 # 2 Type Election System
 Team 8: Claire, Dheva, Mark, Ugta <br />
-CSCI 5801 Spring 2023 Waterfall Project
+CSCI 5801 Spring 2023 Waterfall & Scrum Project
 
 This project handles two types of provided election results CSV files: 
 - IR: Instant Runoff
